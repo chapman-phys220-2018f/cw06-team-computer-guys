@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/chapman-phys220-2018f/CHANGEME.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/CHANGEME)
+[![Build Status](https://travis-ci.com/chapman-phys220-2018f/cw06-team-computer-guys.svg?branch=master)](https://travis-ci.com/chapman-phys220-2018f/cw06-team-computer-guys.svg?branch=master)
 
 # PHYS220/MATH220/CPSC220 CW 6
 
@@ -35,4 +35,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Trevor Kling**
