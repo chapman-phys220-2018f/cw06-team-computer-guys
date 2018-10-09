@@ -22,9 +22,7 @@
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+In this assignment, we found troubleshooting the graphing operation particularly instructive.  While logical errors in the way you do computations may escape when only seeing the numbers, a graph can demonstrate where and how your program fails with far better visual clarity.  Additionally, this project helped to introduce pyplots and its various parameters.
 
 ## Honor Pledge
 
