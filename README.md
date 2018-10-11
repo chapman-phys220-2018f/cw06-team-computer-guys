@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 6
 
-**Author(s):** **Trevor, Paul**
+**Author(s):** **Trevor Kling, Paul Hatem**
 
 ## Specification
 
@@ -33,4 +33,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Trevor Kling**
+**Trevor Kling, Paul Hatem**
